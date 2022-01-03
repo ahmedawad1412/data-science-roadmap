@@ -15,7 +15,7 @@ This repository intendend to provide a complete **Data Science** learning path t
 - [ ] [Statistics & Probability](#statistics-&-probability)
     - [x] [Descriptive Statistics](#descriptive-statistics)
     - [x] [Probability](#probability)
-    - [x] [Combinations and Permutations](#combinations-and-permutations)
+    - [ ] [Combinations and Permutations](#combinations-and-permutations)
     - [ ] [Distributions](#distributions)
     - [ ] [Confidence Intervals](#confidence-intervals)
     - [ ] [Hypothesis](#hypothesis)

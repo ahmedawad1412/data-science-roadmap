@@ -37,7 +37,7 @@ This repository intendend to provide a complete **Data Science** learning path t
 # Statistics & Probability
 
 ### Descriptive Statistics
-- [ ] Intro to Descriptive Statistics [Article 1](https://towardsdatascience.com/descriptive-statistics-f2beeaf7a8df) **or** [Article 2](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)
+- [✔] Intro to Descriptive Statistics [Article 1](https://towardsdatascience.com/descriptive-statistics-f2beeaf7a8df) **or** [Article 2](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)
 
 ### Probability
 - [ ] :tv: [Theoretical probability](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/basic-probability)

@@ -16,7 +16,7 @@ This repository intendend to provide a complete **Data Science** learning path t
 | :----------------------------- | :-----------: | :------------------------: | ---- |
 | [Descriptive Statistics](#descriptive-statistics)         | 2 Hours / Day |  Monday, January 3,  2022  | Done |
 | [Probability](#probability)| 2 Hours / Day |  Monday, January 3, 2022   | Done |
-| [Combinations and Permutations](#combinations-and-permutations) | 2 Hours / Day |  Tuesday, January 4, 2022  |      |
+| [Combinations and Permutations](#combinations-and-permutations) | 2 Hours / Day |  Tuesday, January 4, 2022  |    00  |
 | [Distributions](#distributions)| 2 Hours / Day |  Tuesday, January 4, 2022  |      |
 | [Confidence Intervals](#confidence-intervals)| 2 Hours / Day | Wednesday, January 5, 2022 |      |
 | [Hypothesis](#hypothesis)| 2 Hours / Day | Wednesday, January 5, 2022 |      |

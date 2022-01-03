@@ -10,26 +10,33 @@ This repository intendend to provide a complete **Data Science** learning path t
 -  :dollar: Paid content.
 -  :newspaper: Online article.
 -  :file_folder: GitHub repo.
+### Time Plan
 
-### Content
-- [ ] [Statistics & Probability](#statistics-&-probability)
-    - [x] [Descriptive Statistics](#descriptive-statistics)
-    - [x] [Probability](#probability)
-    - [ ] [Combinations and Permutations](#combinations-and-permutations)
-    - [ ] [Distributions](#distributions)
-    - [ ] [Confidence Intervals](#confidence-intervals)
-    - [ ] [Hypothesis](#hypothesis)
-- [ ] [Linear Algebra](#linear-algebra)
-    - [ ] [Vectors and Spaces](#vectors-and-spaces)
-    - [ ] [Dot Product](#dot-product)
-    - [ ] [Matrix Transformations](#matrix-transformations)
-    - [ ] [Eigenvalues and Eigenvectors](#eigenvalues-and-eigenvectors)
-    - [ ] [Integrals](#integrals)
-- [ ] [Python Programming](#python-programming)
-- [ ] [Numpy](#numpy)
-- [ ] [Pandas](#pandas)
-- [ ] [To-Do](#to-do)
-- [ ] [Contribution guideline](#contribution-guideline)
+| [Statistics & Probability](#statistics-&-probability)      |  Hours / Day  |            Date            |      |
+| :----------------------------- | :-----------: | :------------------------: | ---- |
+| [Descriptive Statistics](#descriptive-statistics)         | 4 Hours / Day |  Monday, January 3,  2022  | Done |
+| [Probability](#probability)| 4 Hours / Day |  Monday, January 3, 2022   | Done |
+| [Combinations and Permutations](#combinations-and-permutations) | 4 Hours / Day |  Tuesday, January 4, 2022  |      |
+| [Distributions](#distributions)| 4 Hours / Day |  Tuesday, January 4, 2022  |      |
+| [Confidence Intervals](#confidence-intervals)| 4 Hours / Day | Wednesday, January 5, 2022 |      |
+| [Hypothesis](#hypothesis)| 4 Hours / Day | Wednesday, January 5, 2022 |      |
+
+| Linear  Algebra               |  Hours / Day  |           Date            |      |
+| ----------------------------- | :-----------: | :-----------------------: | ---- |
+| [Linear Algebra](#linear-algebra)               | 4 Hours / Day | Thursday, January 6, 2022 |      |
+| [Vectors and Spaces](#vectors-and-spaces)           | 4 Hours / Day | Thursday, January 6, 2022 |      |
+| [Dot Product](#dot-product)                  | 4 Hours / Day |  Friday, January 7, 2022  |      |
+| [Matrix Transformations](#matrix-transformations)       | 4 Hours / Day |  Friday, January 7, 2022  |      |
+| [Eigenvalues and Eigenvectors](#eigenvalues-and-eigenvectors) | 4 Hours / Day | Saturday, January 8, 2022 |      |
+| [Integrals](#integrals)                    | 4 Hours / Day | Saturday, January 8, 2022 |      |
+
+| Python              |  Hours / Day  |           Date            |      |
+| ------------------- | :-----------: | :-----------------------: | ---- |
+| [Python Programming](#python-programming)| 3 Hours / Day |  Sunday, January 9, 2022  |      |
+| [Numpy](#numpy)              | 3 Hours / Day | Monday, January 10, 2022  |      |
+| [Pandas](#pandas)           | 3 Hours / Day | Tuesday, January 11, 2022 |      |
+| Summary             |   33 Hours    |          12 Day           |      |
+
 
 # Statistics & Probability
 

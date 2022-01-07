@@ -40,7 +40,7 @@ This repository intendend to provide a complete **Data Science** learning path t
 - [✔] Intro to Descriptive Statistics [Article 1](https://towardsdatascience.com/descriptive-statistics-f2beeaf7a8df) **or** [Article 2](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)
 
 ### Probability
-- [ ] :tv: [Theoretical probability](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/basic-probability)
+- [×] :tv: [Theoretical probability](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/basic-probability)
 - [ ] :tv: [Sample spaces](https://www.khanacademy.org/math/statistics-probability/probability-library/probability-sample-spaces/v/events-and-outcomes-3)
 - [ ] :tv: [Set operations](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets)
 - [ ] :tv: [Addition rule](https://www.khanacademy.org/math/statistics-probability/probability-library/addition-rule-lib/v/probability-with-playing-cards-and-venn-diagrams)

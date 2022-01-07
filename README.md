@@ -55,7 +55,7 @@ This repository intendend to provide a complete **Data Science** learning path t
 
 ### Distributions
 - [x] :tv: [Normal distribution and the Empirical rule](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-normal-distribution-problems-qualitative-sense-of-normal-distributions)
-- [ ] :tv: [Introduction to Sampling Distributions](https://www.khanacademy.org/math/statistics-probability/sampling-distributions-library/what-is-a-sampling-distribution/v/introduction-to-sampling-distributions)
+- [x] :tv: [Introduction to Sampling Distributions](https://www.khanacademy.org/math/statistics-probability/sampling-distributions-library/what-is-a-sampling-distribution/v/introduction-to-sampling-distributions)
 - [ ] :tv: [Sampling distribution of a sample proportion](https://www.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-proportions/v/sampling-distribution-of-sample-proportion-part-1)
 - [ ] :tv: [Sampling distribution of a sample mean](https://www.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means/v/statistics-sample-vs-population-mean)
 

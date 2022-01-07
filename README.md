@@ -49,9 +49,9 @@ This repository intendend to provide a complete **Data Science** learning path t
 - [x] :tv: [Conditional probability and independence](https://www.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/v/calculating-conditional-probability)
 
 ### Combinations and Permutations
-- [ ] :tv: [Counting principle and factorial](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/counting-principle-factorial/v/tree-diagram-to-count-outcomes)
-- [ ] :tv: [Permutations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/permutation-lib/v/permutation-formula)
-- [ ] :tv: [Combinations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/v/introduction-to-combinations)
+- [x] :tv: [Counting principle and factorial](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/counting-principle-factorial/v/tree-diagram-to-count-outcomes)
+- [x] :tv: [Permutations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/permutation-lib/v/permutation-formula)
+- [x] :tv: [Combinations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/v/introduction-to-combinations)
 
 ### Distributions
 - [ ] :tv: [Normal distribution and the Empirical rule](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-normal-distribution-problems-qualitative-sense-of-normal-distributions)
